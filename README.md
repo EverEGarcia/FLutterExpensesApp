@@ -9,7 +9,7 @@ You can also delete an added expenditure.
 # Run The App on Your Android Device Now
 
 <p align="center">
-<a href='https://play.google.com/store/apps/details?id=dev.ankan.expense_app'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='100px'/></a>
+<a href='https://play.google.com/store/apps/details?id=dev._.expense_app'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='100px'/></a>
   </p>
 
 ## Details
@@ -20,7 +20,7 @@ You can also delete an added expenditure.
 
 • [Google AdMob](https://admob.google.com/) for showing Banner Ads
 
-• [sqflite](https://pub.dev/packages/sqflite) for database operations 
+• [sqflite](https://pub.dev/packages/sqflite) for database operations
 
 ## Screenshots
 
@@ -41,16 +41,8 @@ You can also delete an added expenditure.
 This app is purely made for learning purposes. Please treat it as such.
 </b>
 
-For support, questions, or more information, please mail: contact@ankan.dev
-
-Checkout my site ([ankan.dev](https://ankan.dev)) or follow me on ([Twitter](https://twitter.com/ankan_sikdar)) and ([Instagram](https://www.instagram.com/ankan_sikdar)) for any updates.
-
 ## Legal Things
 
 ### Privacy Policy
 
-[Click here to read the privacy policy](https://expense-tracker-privacy.web.app/).
-
 ### License
-
-Licensed under the GPLv3: http://www.gnu.org/licenses/gpl-3.0.html
